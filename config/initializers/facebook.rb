@@ -11,9 +11,11 @@
 # APP_ID = "168684223172954"
 
               # DEVELOPMENT
-APP_NAME = "sutalktest"
-APP_ID = "185866364769116"
+#APP_NAME = "sutalktest"
+#APP_ID = "185866364769116"
 
+APP_NAME = "sutalkschon"
+APP_ID = "201104699932907"
 
 
               # Facebook api permissions
